@@ -45,7 +45,7 @@ Please put solutions in the [`solution.py`](solution.py) file.
 
 ### Exercise 3 (5 pts)
 
-For 3 different classifiers and any 2 sets from the data directory:
+For 3 different classifiers and any 2 sets from the [`data`](data) directory:
 
 - Load data from a file
 - Divide the set into the feature set (`X`) and the set of labels (` y`). Use the `prepare_data` function from the` utils.py` file
